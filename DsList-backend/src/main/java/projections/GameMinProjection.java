@@ -1,6 +1,7 @@
 package projections;
 
 public interface GameMinProjection {
+	
     Long getId();
 	String getTitle();
 	Integer getGameYear();
